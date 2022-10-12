@@ -1,0 +1,9 @@
+.container {
+    width: 890px;
+    position: relative;
+}
+
+.first-ojt-content {
+    height: 500px;
+    align-items: center;
+}
